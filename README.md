@@ -11,7 +11,7 @@ The project combines **SQL data preparation** with an interactive dashboard to t
 ---## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Coffe Sales/dashboard.png" alt="Coffee Shop Sales Dashboard" width="100%">
+  <img src="Dashboard.png" alt="Coffee Shop Sales Dashboard" width="100%">
 </p>
 
 ## 🎯 Project Objectives
