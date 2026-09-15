@@ -8,7 +8,7 @@ The dashboard provides a consolidated view of key sales KPIs and helps identify 
 
 The project combines **SQL data preparation** with an interactive dashboard to transform raw transaction data into actionable business insights.
 
----## 📊 Dashboard Preview
+📊 Dashboard Preview
 
 <p align="center">
   <img src="Coffe Sales/Dashboard.png" alt="Coffee Shop Sales Dashboard" width="100%">
